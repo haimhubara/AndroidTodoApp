@@ -1,6 +1,6 @@
 # TodoList Android Application
 
-This is a simple **TodoList** Android application developed using **Java** that allows users to manage their tasks efficiently. It supports adding, updating, and deleting tasks, with an intuitive interface and multiple filtering options.
+This is a simple **TodoList** Android application developed using **Java** in **Android Studio** that allows users to manage their tasks efficiently. It supports adding, updating, and deleting tasks, with an intuitive interface and multiple filtering options.
 
 ## Features
 
