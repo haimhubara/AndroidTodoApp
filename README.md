@@ -17,7 +17,7 @@ This is a simple **TodoList** Android application developed using **Java** in **
 1. **Add Task**: Click on the "+" button to add a new task. Fill in the task details and save.
 2. **Update Task**: Click on any task in the list to edit its details, including its completion status.
 3. **Delete Task**: Swipe left or right on a task to delete it.
-4. **Search Tasks**: Use the search bar to filter tasks by:
+4. **Search Tasks**: Use the buttons to filter tasks by:
    - **Completed tasks**
    - **Pending tasks**
    - **Tasks by date**
